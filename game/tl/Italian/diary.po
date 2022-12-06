@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.BigBrotherAS] main/game/tl/crowdin/scripts/screens/diary.po\n"
+"X-Crowdin-File-ID: 4517\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-06 20:53\n"
+
+# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:81
+msgid "ТЕКУЩИЕ"
+msgstr ""
+
+# game/scripts/screens/diary.rpy:87
+msgid "ВЫПОЛНЕННЫЕ"
+msgstr ""
+
+# game/scripts/screens/diary.rpy:113
+msgid "Сейчас здесь нет заданий"
+msgstr ""
+
