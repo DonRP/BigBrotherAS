@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /[DonRP.BigBrotherAS] main/game/tl/crowdin/scripts/engine/characters.po\n"
+"X-Crowdin-File-ID: 4509\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2022-12-06 20:53\n"
+
+# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:90
+msgid "Макс"
+msgstr ""
+
+# game/scripts/engine/characters.rpy:115
+msgid "Лиза"
+msgstr ""
+
+# game/scripts/engine/characters.rpy:136
+msgid "Алиса"
+msgstr ""
+
+# game/scripts/engine/characters.rpy:157
+msgid "Мама"
+msgstr ""
+
+# game/scripts/engine/characters.rpy:197
+msgid "Майя"
+msgstr ""
+
