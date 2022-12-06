@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /[DonRP.BigBrotherAS] main/game/tl/crowdin/scripts/screens/navigation.po\n"
+"X-Crowdin-File-ID: 4519\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"PO-Revision-Date: 2022-12-06 20:53\n"
+
+# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:136
+msgid "Ждать окончания часа"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:144
+msgid "Мыть посуду"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:152
+msgid "Поговорить"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:160
+msgid "Принять ванну"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:168
+msgid "Принять душ"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:176
+msgid "Вздремнуть"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:184
+msgid "Установить будильник"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:192
+msgid "Спать до утра"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:200
+msgid "Сесть за ноутбук"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:208
+msgid "Разобрать коробки"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:237
+msgid "Развернуть"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:245
+msgid "Ждать 30 минут"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:252
+msgid "Ждать 10 минут"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:257
+msgid "Свернуть"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:287
+msgid "Галерея"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:293
+msgid "Поддержать игру на Boosty"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:299
+msgid "Поддержать игру на Patreon"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:305
+msgid "Меню игры"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:311
+msgid "Личный дневник"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:318
+msgid "Обучение"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:324
+msgid "Предметы"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:330
+msgid "Одежда"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:336
+msgid "Персонажи"
+msgstr ""
+
