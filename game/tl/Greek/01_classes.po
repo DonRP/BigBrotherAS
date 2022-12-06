@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /[DonRP.BigBrotherAS] main/game/tl/crowdin/scripts/engine/01_classes.po\n"
+"X-Crowdin-File-ID: 4507\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2022-12-06 20:53\n"
+
+# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/01_classes.rpy:15
+msgid "скрытность"
+msgstr ""
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "убеждение"
+msgstr ""
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "удача"
+msgstr ""
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "массаж"
+msgstr ""
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "поцелуи"
+msgstr ""
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "сексуальный опыт"
+msgstr ""
+
