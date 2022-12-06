@@ -1,0 +1,44 @@
+﻿# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/definitions.rpy:10
+msgid "Анна"
+msgstr "Анна"
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Комната Макса и Лизы"
+msgstr "Комната Макса и Лизы"
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Комната Алисы"
+msgstr "Комната Алисы"
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Комната Анны"
+msgstr "Комната Анны"
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Ванная комната"
+msgstr "Ванная комната"
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Гостиная"
+msgstr "Гостиная"
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Веранда"
+msgstr "Веранда"
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Двор"
+msgstr "Двор"
+
+# game/scripts/engine/definitions.rpy:54
+msgid "Я остался незамеченным!"
+msgstr "Я остался незамеченным!"
+
+# game/scripts/engine/definitions.rpy:60
+msgid "Я чуть не попался!"
+msgstr "Я чуть не попался!"
+
+# game/scripts/engine/definitions.rpy:60
+msgid "Вот чёрт, я попался!"
+msgstr "Вот чёрт, я попался!"
+

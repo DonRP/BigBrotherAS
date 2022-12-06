@@ -1,0 +1,92 @@
+﻿# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:136
+msgid "Ждать окончания часа"
+msgstr "Ждать окончания часа"
+
+# game/scripts/screens/navigation.rpy:144
+msgid "Мыть посуду"
+msgstr "Мыть посуду"
+
+# game/scripts/screens/navigation.rpy:152
+msgid "Поговорить"
+msgstr "Поговорить"
+
+# game/scripts/screens/navigation.rpy:160
+msgid "Принять ванну"
+msgstr "Принять ванну"
+
+# game/scripts/screens/navigation.rpy:168
+msgid "Принять душ"
+msgstr "Принять душ"
+
+# game/scripts/screens/navigation.rpy:176
+msgid "Вздремнуть"
+msgstr "Вздремнуть"
+
+# game/scripts/screens/navigation.rpy:184
+msgid "Установить будильник"
+msgstr "Установить будильник"
+
+# game/scripts/screens/navigation.rpy:192
+msgid "Спать до утра"
+msgstr "Спать до утра"
+
+# game/scripts/screens/navigation.rpy:200
+msgid "Сесть за ноутбук"
+msgstr "Сесть за ноутбук"
+
+# game/scripts/screens/navigation.rpy:208
+msgid "Разобрать коробки"
+msgstr "Разобрать коробки"
+
+# game/scripts/screens/navigation.rpy:237
+msgid "Развернуть"
+msgstr "Развернуть"
+
+# game/scripts/screens/navigation.rpy:245
+msgid "Ждать 30 минут"
+msgstr "Ждать 30 минут"
+
+# game/scripts/screens/navigation.rpy:252
+msgid "Ждать 10 минут"
+msgstr "Ждать 10 минут"
+
+# game/scripts/screens/navigation.rpy:257
+msgid "Свернуть"
+msgstr "Свернуть"
+
+# game/scripts/screens/navigation.rpy:287
+msgid "Галерея"
+msgstr "Галерея"
+
+# game/scripts/screens/navigation.rpy:293
+msgid "Поддержать игру на Boosty"
+msgstr "Поддержать игру на Boosty"
+
+# game/scripts/screens/navigation.rpy:299
+msgid "Поддержать игру на Patreon"
+msgstr "Поддержать игру на Patreon"
+
+# game/scripts/screens/navigation.rpy:305
+msgid "Меню игры"
+msgstr "Меню игры"
+
+# game/scripts/screens/navigation.rpy:311
+msgid "Личный дневник"
+msgstr "Личный дневник"
+
+# game/scripts/screens/navigation.rpy:318
+msgid "Обучение"
+msgstr "Обучение"
+
+# game/scripts/screens/navigation.rpy:324
+msgid "Предметы"
+msgstr "Предметы"
+
+# game/scripts/screens/navigation.rpy:330
+msgid "Одежда"
+msgstr "Одежда"
+
+# game/scripts/screens/navigation.rpy:336
+msgid "Персонажи"
+msgstr "Персонажи"
+

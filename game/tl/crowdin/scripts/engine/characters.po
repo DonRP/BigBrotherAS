@@ -1,0 +1,20 @@
+﻿# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:90
+msgid "Макс"
+msgstr "Макс"
+
+# game/scripts/engine/characters.rpy:115
+msgid "Лиза"
+msgstr "Лиза"
+
+# game/scripts/engine/characters.rpy:136
+msgid "Алиса"
+msgstr "Алиса"
+
+# game/scripts/engine/characters.rpy:157
+msgid "Мама"
+msgstr "Мама"
+
+# game/scripts/engine/characters.rpy:197
+msgid "Майя"
+msgstr "Майя"
+

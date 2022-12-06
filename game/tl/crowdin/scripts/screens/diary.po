@@ -1,0 +1,12 @@
+﻿# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:81
+msgid "ТЕКУЩИЕ"
+msgstr "ТЕКУЩИЕ"
+
+# game/scripts/screens/diary.rpy:87
+msgid "ВЫПОЛНЕННЫЕ"
+msgstr "ВЫПОЛНЕННЫЕ"
+
+# game/scripts/screens/diary.rpy:113
+msgid "Сейчас здесь нет заданий"
+msgstr "Сейчас здесь нет заданий"
+

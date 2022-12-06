@@ -1,0 +1,24 @@
+﻿# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/01_classes.rpy:15
+msgid "скрытность"
+msgstr "скрытность"
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "убеждение"
+msgstr "убеждение"
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "удача"
+msgstr "удача"
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "массаж"
+msgstr "массаж"
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "поцелуи"
+msgstr "поцелуи"
+
+# game/scripts/engine/01_classes.rpy:15
+msgid "сексуальный опыт"
+msgstr "сексуальный опыт"
+
