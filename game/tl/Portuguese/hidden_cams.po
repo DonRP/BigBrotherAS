@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /[DonRP.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/hidden_cams.po\n"
+"X-Crowdin-File-ID: 4527\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"PO-Revision-Date: 2022-12-06 20:54\n"
+
+# TODO: Translation updated at 2022-12-05 21:30 #|#|# # game/scripts/story_01/hidden_cams.rpy:8 #-#-# translate crowdin ev_003_089bb89e:
+msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:11 #-#-# translate crowdin ev_003_ae30cdef:
+msgid "[_tMax_s_13_] Так, это всё здорово, но мама попросила разобрать коробки. Хочу или нет, а надо. Сейчас глянем, что тут у нас..."
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:14 #-#-# translate crowdin ev_003_a2d08434:
+msgid "[_tMax_s_16_] Жаль, но во всех коробках ничего интересного нет. Только вот в этой какие-то комплектующие... И похоже, инструкция..."
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:17 #-#-# translate crowdin ev_003_9dc757c5:
+msgid "[_tMax_s_12_] Почитаем, что пишут... Ого! Да это инструкция к скрытой камере! Любопытно, зачем она понадобилась отцу? Может быть, она установлена где-то в доме и за нами кто-то наблюдает?! Нужно будет осмотреть дом..."
+msgstr ""
+
