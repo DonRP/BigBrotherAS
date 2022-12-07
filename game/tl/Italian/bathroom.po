@@ -10,39 +10,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-06 20:53\n"
+"PO-Revision-Date: 2022-12-07 10:23\n"
 
 # TODO: Translation updated at 2022-12-05 21:30 #|#|# # game/scripts/story_01/bathroom.rpy:9 #-#-# translate crowdin lisa_shower_64d4937b:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята Лизой... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_11_] Il bagno dovrebbe essere occupato da Lisa ora... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:27 #-#-# translate crowdin lisa_shower_voy_01_4a9744e8:
 msgid "[_tMax_s_13_] Где же Лиза? Должно быть, ещё раздевается перед тем, как принять душ... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_13_] Dov'è Lisa? Deve ancora spogliarsi prima di fare la doccia... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:40 #-#-# translate crowdin lisa_shower_voy_02_1fc723af:
 msgid "[_tMax_s_03_] Отлично! Моя младшая сестрёнка собирается принимать душ... Какая у неё обворожительная голая попка! Смотрел бы не отрываясь... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_03_] È fantastico! La mia sorellina sta per fare la doccia... Che adorabile culo nudo che ha! Non riesco a smettere di guardare... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:48 #-#-# translate crowdin lisa_shower_voy_02_c6abd115:
 msgid "[_tMax_s_15_] Фух! Кажется, она не успела меня заметить... Надо сматываться! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_15_] Non credo che mi abbia visto in tempo... Devo andarmene da qui! [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:60 #-#-# translate crowdin lisa_shower_voy_03_b48cb42c:
 msgid "[_tMax_s_05_] Лиза вся такая мокренькая... Класс! Фигурка и всё остальное у неё - что надо... Как же хочется потрогать! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_05_] Lisa è tutta bagnata... Oh, fantastico! Ha un bel fisico e tutto il resto... Non vedo l'ora di toccarla! [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:68 #-#-# translate crowdin lisa_shower_voy_03_635e87d2:
 msgid "[_Lisa_s_14_] Макс! Ты подглядываешь за мной? Как тебе не стыдно?! Я всё маме расскажу! [nointeract]"
-msgstr ""
+msgstr "[_Lisa_s_14_] Max! Mi stai spiando? Non ti vergogni? Lo dirò alla mamma! [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:79 #-#-# translate crowdin lisa_shower_voy_04_55ccd647:
 msgid "[_tMax_s_04_] Эх, моя младшая сестрёнка уже закончила принимать душ... Но за тем, как вода стекает по её обворожительной голой попке, хочется смотреть не отрываясь... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_04_] Eh, la mia sorellina ha già finito di fare la doccia... Ma il modo in cui l'acqua scorre sul suo bel sedere nudo fa venire voglia di guardarlo sempre... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:85 #-#-# translate crowdin lisa_shower_voy_04_c6abd115:
 msgid "[_tMax_s_15_] Фух! Кажется, она не успела меня заметить... Надо сматываться! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_15_] Non credo che mi abbia visto in tempo... Devo andarmene da qui! [nointeract]"
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/bathroom.rpy:8
 msgid "{i}заглянуть со двора{/i}"
@@ -54,13 +54,13 @@ msgstr "{i}vattene{/i}"
 
 # game/scripts/story_01/bathroom.rpy:26
 msgid "{i}притаиться и ждать{/i}"
-msgstr ""
+msgstr "{i}stare fermi ad aspettare{/i}"
 
 # game/scripts/story_01/bathroom.rpy:39
 msgid "{i}продолжить подглядывать{/i}"
-msgstr ""
+msgstr "{i}continua a sbirciare{/i}"
 
 # game/scripts/story_01/bathroom.rpy:47
 msgid "{i}убежать{/i}"
-msgstr ""
+msgstr "{i}scappare{/i}"
 
