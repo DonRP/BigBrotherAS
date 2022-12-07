@@ -10,25 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-06 20:53\n"
+"PO-Revision-Date: 2022-12-07 10:23\n"
 
 # TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:289
 msgid "[txt]\n"
 "{i}{color='#f00'}{size=[sz]]}Требуется [skill.name!tl] [skill.min_lvl] ур.{/size}{/color}{/i}"
-msgstr ""
+msgstr "[txt]\n"
+"{i}{color='#f00'}{size=[sz]]}Ricercato [skill.name!tl] [skill.min_lvl] ур.{/size}{/color}{/i}"
 
 # game/scripts/screens/screens.rpy:294
 msgid "[txt]\n"
 "{i}{color=[skill.color]}{size=[sz]}([skill.name!tcl] шанс: [skill.percent]%){/size}{/color}{/i}"
-msgstr ""
+msgstr "[txt]\n"
+"{i}{color=[skill.color]}{size=[sz]}([skill.name!tcl] possibilità: [skill.percent]%){/size}{/color}{/i}"
 
 # game/scripts/screens/screens.rpy:297
 msgid "относительно трудно"
-msgstr ""
+msgstr "relativamente difficile"
 
 # game/scripts/screens/screens.rpy:299
 msgid "относительно легко"
-msgstr ""
+msgstr "relativamente facile"
 
 # game/scripts/screens/screens.rpy:379
 msgid "Назад"
@@ -64,7 +66,7 @@ msgstr "Opzioni"
 
 # game/scripts/screens/screens.rpy:454
 msgid "Начать"
-msgstr ""
+msgstr "Inizio"
 
 # game/scripts/screens/screens.rpy:455
 msgid "Продолжить"
@@ -72,7 +74,7 @@ msgstr "Continua"
 
 # game/scripts/screens/screens.rpy:458
 msgid "Загрузить"
-msgstr ""
+msgstr "Carica"
 
 # game/scripts/screens/screens.rpy:461
 msgid "Настройки"
@@ -80,7 +82,7 @@ msgstr "Impostazioni"
 
 # game/scripts/screens/screens.rpy:462
 msgid "Выход"
-msgstr ""
+msgstr "Esci"
 
 # game/scripts/screens/screens.rpy:532
 msgid "Главное меню"
@@ -92,28 +94,29 @@ msgstr "Termina ripetizione"
 
 # game/scripts/screens/screens.rpy:553
 msgid "Вернуться"
-msgstr ""
+msgstr "Indietro"
 
 # game/scripts/screens/screens.rpy:656
 msgid "Об игре"
-msgstr ""
+msgstr "Informazioni sul gioco"
 
 # game/scripts/screens/screens.rpy:663
 msgid "Версия [config.version!t]\n"
-msgstr ""
+msgstr "Versione [config.version!t]\n"
 
 # game/scripts/screens/screens.rpy:669
 msgid "Сделано с помощью {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Realizzato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n"
+"[renpy.license!t]"
 
 # game/scripts/screens/screens.rpy:708
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 # game/scripts/screens/screens.rpy:709
 msgid "Отмена"
-msgstr ""
+msgstr "Annulla"
 
 # game/scripts/screens/screens.rpy:738
 msgid "{} страница"
@@ -129,11 +132,11 @@ msgstr "Salvataggi rapidi"
 
 # game/scripts/screens/screens.rpy:780
 msgid "День [slot_dwtm[0]] [lw] [slot_dwtm[2]]"
-msgstr ""
+msgstr "Giorno [slot_dwtm[0]] [lw] [slot_dwtm[2]]"
 
 # game/scripts/screens/screens.rpy:791
 msgid "{#file_time}%a, %d %B %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%a, %d %B %Y, %H:%M"
 
 # game/scripts/screens/screens.rpy:791
 msgid "Пустой слот"
@@ -141,23 +144,23 @@ msgstr "Slot vuoto"
 
 # game/scripts/screens/screens.rpy:844
 msgid "{#file_time}%A, %d %B %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %d %B %Y, %H:%M"
 
 # game/scripts/screens/screens.rpy:879
 msgid "{#auto_page}А"
-msgstr ""
+msgstr "{#auto_page}А"
 
 # game/scripts/screens/screens.rpy:883
 msgid "{#quick_page}Б"
-msgstr ""
+msgstr "{#quick_page}B"
 
 # game/scripts/screens/screens.rpy:994
 msgid "ЯЗЫК"
-msgstr ""
+msgstr "LINGUA"
 
 # game/scripts/screens/screens.rpy:1032
 msgid "ЭКРАН"
-msgstr ""
+msgstr "SCHERMO"
 
 # game/scripts/screens/screens.rpy:1035
 msgid "Режим экрана"
@@ -173,7 +176,7 @@ msgstr "Pieno"
 
 # game/scripts/screens/screens.rpy:1044
 msgid "ГЕЙМПЛЕЙ"
-msgstr ""
+msgstr "GIOCO"
 
 # game/scripts/screens/screens.rpy:1047
 msgid "Сторона отката"
@@ -193,19 +196,19 @@ msgstr "A destra"
 
 # game/scripts/screens/screens.rpy:1058
 msgid "Пропускать"
-msgstr ""
+msgstr "Salta"
 
 # game/scripts/screens/screens.rpy:1061
 msgid "Весь текст"
-msgstr ""
+msgstr "Testo completo"
 
 # game/scripts/screens/screens.rpy:1064
 msgid "После выбора"
-msgstr ""
+msgstr "Dopo aver selezionato"
 
 # game/scripts/screens/screens.rpy:1067
 msgid "После переходов"
-msgstr ""
+msgstr "Dopo le transizioni"
 
 # game/scripts/screens/screens.rpy:1069
 msgid "Скорость текста"
@@ -217,31 +220,31 @@ msgstr "Velocità di lettura automatica"
 
 # game/scripts/screens/screens.rpy:1076
 msgid "Размер шрифта"
-msgstr ""
+msgstr "Dimensione del carattere"
 
 # game/scripts/screens/screens.rpy:1079
 msgid "Мелкий"
-msgstr ""
+msgstr "Piccolo"
 
 # game/scripts/screens/screens.rpy:1082
 msgid "Средний"
-msgstr ""
+msgstr "Medio"
 
 # game/scripts/screens/screens.rpy:1085
 msgid "Крупный"
-msgstr ""
+msgstr "Grande"
 
 # game/scripts/screens/screens.rpy:1089
 msgid "Масштаб элементов интерфейса: [scale]%"
-msgstr ""
+msgstr "Scala degli elementi dell'interfaccia: [scale]%"
 
 # game/scripts/screens/screens.rpy:1094
 msgid "Прозрачность текстового окна: [opacity:.0f]%"
-msgstr ""
+msgstr "Trasparenza della finestra di testo: [opacity:.0f]%"
 
 # game/scripts/screens/screens.rpy:1100
 msgid "АУДИО"
-msgstr ""
+msgstr "AUDIO"
 
 # game/scripts/screens/screens.rpy:1103
 msgid "Громкость музыки"
@@ -265,7 +268,7 @@ msgstr "Silenzia"
 
 # game/scripts/screens/screens.rpy:1126
 msgid "ДОПОЛНИТЕЛЬНО"
-msgstr ""
+msgstr "EXTRA"
 
 # game/scripts/screens/screens.rpy:1130
 msgid "Именованные сохранения"
@@ -373,7 +376,7 @@ msgstr "Include il sintetizzatore vocale {a=https://www.renpy.org/l/voicing}supp
 
 # game/scripts/screens/screens.rpy:1399
 msgid "Открывает меню специальных возможностей."
-msgstr ""
+msgstr "Apre un menu di funzioni speciali."
 
 # game/scripts/screens/screens.rpy:1405
 msgid "Левый клик"
