@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-06 20:53\n"
+"PO-Revision-Date: 2022-12-07 10:22\n"
 
 # TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/definitions.rpy:10
 msgid "Анна"
@@ -18,41 +18,41 @@ msgstr "Аnn"
 
 # game/scripts/engine/definitions.rpy:19
 msgid "Комната Макса и Лизы"
-msgstr ""
+msgstr "Camera di Max e Lisa"
 
 # game/scripts/engine/definitions.rpy:19
 msgid "Комната Алисы"
-msgstr ""
+msgstr "Camera di Alice"
 
 # game/scripts/engine/definitions.rpy:19
 msgid "Комната Анны"
-msgstr ""
+msgstr "Camera di Anna"
 
 # game/scripts/engine/definitions.rpy:19
 msgid "Ванная комната"
-msgstr ""
+msgstr "Bagno"
 
 # game/scripts/engine/definitions.rpy:19
 msgid "Гостиная"
-msgstr ""
+msgstr "Soggiorno"
 
 # game/scripts/engine/definitions.rpy:19
 msgid "Веранда"
-msgstr ""
+msgstr "Veranda"
 
 # game/scripts/engine/definitions.rpy:19
 msgid "Двор"
-msgstr ""
+msgstr "Cortile"
 
 # game/scripts/engine/definitions.rpy:54
 msgid "Я остался незамеченным!"
-msgstr ""
+msgstr "Non sono stato notato!"
 
 # game/scripts/engine/definitions.rpy:60
 msgid "Я чуть не попался!"
-msgstr ""
+msgstr "Mi hanno quasi scoperto!"
 
 # game/scripts/engine/definitions.rpy:60
 msgid "Вот чёрт, я попался!"
-msgstr ""
+msgstr "Oh, merda, sono fregato!"
 
