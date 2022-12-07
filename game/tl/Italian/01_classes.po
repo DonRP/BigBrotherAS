@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-06 20:53\n"
+"PO-Revision-Date: 2022-12-07 09:02\n"
 
 # TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/01_classes.rpy:15
 msgid "скрытность"
-msgstr ""
+msgstr "furtività"
 
 # game/scripts/engine/01_classes.rpy:15
 msgid "убеждение"
-msgstr ""
+msgstr "convinzione"
 
 # game/scripts/engine/01_classes.rpy:15
 msgid "удача"
-msgstr ""
+msgstr "fortuna"
 
 # game/scripts/engine/01_classes.rpy:15
 msgid "массаж"
-msgstr ""
+msgstr "massaggio"
 
 # game/scripts/engine/01_classes.rpy:15
 msgid "поцелуи"
-msgstr ""
+msgstr "baci"
 
 # game/scripts/engine/01_classes.rpy:15
 msgid "сексуальный опыт"
-msgstr ""
+msgstr "esperienza sessuale"
 
