@@ -10,91 +10,91 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-06 20:53\n"
+"PO-Revision-Date: 2022-12-07 10:23\n"
 
 # TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:136
 msgid "Ждать окончания часа"
-msgstr ""
+msgstr "Aspettando la fine dell'ora"
 
 # game/scripts/screens/navigation.rpy:144
 msgid "Мыть посуду"
-msgstr ""
+msgstr "Lavare i piatti"
 
 # game/scripts/screens/navigation.rpy:152
 msgid "Поговорить"
-msgstr ""
+msgstr "Parlare"
 
 # game/scripts/screens/navigation.rpy:160
 msgid "Принять ванну"
-msgstr ""
+msgstr "Fare il bagno"
 
 # game/scripts/screens/navigation.rpy:168
 msgid "Принять душ"
-msgstr ""
+msgstr "Fare la doccia"
 
 # game/scripts/screens/navigation.rpy:176
 msgid "Вздремнуть"
-msgstr ""
+msgstr "Fare un sonnellino"
 
 # game/scripts/screens/navigation.rpy:184
 msgid "Установить будильник"
-msgstr ""
+msgstr "Impostare la sveglia"
 
 # game/scripts/screens/navigation.rpy:192
 msgid "Спать до утра"
-msgstr ""
+msgstr "Dormire fino al mattino"
 
 # game/scripts/screens/navigation.rpy:200
 msgid "Сесть за ноутбук"
-msgstr ""
+msgstr "Sedersi al computer"
 
 # game/scripts/screens/navigation.rpy:208
 msgid "Разобрать коробки"
-msgstr ""
+msgstr "Smontare le scatole"
 
 # game/scripts/screens/navigation.rpy:237
 msgid "Развернуть"
-msgstr ""
+msgstr "Ampliare"
 
 # game/scripts/screens/navigation.rpy:245
 msgid "Ждать 30 минут"
-msgstr ""
+msgstr "Aspettare 30 minuti"
 
 # game/scripts/screens/navigation.rpy:252
 msgid "Ждать 10 минут"
-msgstr ""
+msgstr "Aspettare 10 minuti"
 
 # game/scripts/screens/navigation.rpy:257
 msgid "Свернуть"
-msgstr ""
+msgstr "Entrare"
 
 # game/scripts/screens/navigation.rpy:287
 msgid "Галерея"
-msgstr ""
+msgstr "Galleria"
 
 # game/scripts/screens/navigation.rpy:293
 msgid "Поддержать игру на Boosty"
-msgstr ""
+msgstr "Supporta il gioco su Boosty"
 
 # game/scripts/screens/navigation.rpy:299
 msgid "Поддержать игру на Patreon"
-msgstr ""
+msgstr "Supporta il gioco su Patreon"
 
 # game/scripts/screens/navigation.rpy:305
 msgid "Меню игры"
-msgstr ""
+msgstr "Menu di gioco"
 
 # game/scripts/screens/navigation.rpy:311
 msgid "Личный дневник"
-msgstr ""
+msgstr "Diario personale"
 
 # game/scripts/screens/navigation.rpy:318
 msgid "Обучение"
-msgstr ""
+msgstr "Formazione"
 
 # game/scripts/screens/navigation.rpy:324
 msgid "Предметы"
-msgstr ""
+msgstr "Oggetti"
 
 # game/scripts/screens/navigation.rpy:330
 msgid "Одежда"
@@ -102,5 +102,5 @@ msgstr "Abbigliamento"
 
 # game/scripts/screens/navigation.rpy:336
 msgid "Персонажи"
-msgstr ""
+msgstr "Personaggi"
 
