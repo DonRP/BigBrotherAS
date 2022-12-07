@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-06 20:53\n"
+"PO-Revision-Date: 2022-12-07 10:23\n"
 
 # TODO: Translation updated at 2022-12-05 21:30 #|#|# # game/scripts/story_01/breakfasts.rpy:9 #-#-# translate crowdin ev_002_7ee8f2aa:
 msgid "[_Ann_s_02_] Ну, дети, как вам живётся на новом месте? Как спалось в первую ночь?"
-msgstr ""
+msgstr "[_Ann_s_02_] Allora, ragazzi, come vi trovate nella vostra nuova casa? Come avete dormito la prima notte?"
 
 # game/scripts/story_01/breakfasts.rpy:10 #-#-# translate crowdin ev_002_bf449ace:
 msgid "[_Alice_s_03_] Просто нет слов! После той нашей съёмной квартиры это какой-то рай! А кровать какая удобная..."
-msgstr ""
+msgstr "[_Alice_s_03_] Non ci sono parole! Dopo il nostro appartamento in affitto, è come un paradiso! E che letto comodo..."
 
 # game/scripts/story_01/breakfasts.rpy:11 #-#-# translate crowdin ev_002_48d5bc6d:
 msgid "[_Max_s_13_] А вот у меня кровать точно такая же..."
-msgstr ""
+msgstr "[_Max_s_13_] Il mio letto è esattamente lo stesso..."
 
 # game/scripts/story_01/breakfasts.rpy:12 #-#-# translate crowdin ev_002_3d8260e0:
 msgid "[_Lisa_s_03_] Это потому, что у нас с тобой наши старые кровати. Ты забыл? Кстати, мне нравится моя. Даже не хочу менять её на новую..."
-msgstr ""
+msgstr "[_Lisa_s_03_] Questo perché io e te abbiamo i nostri vecchi letti. L'hai dimenticato? A proposito, a me piace il mio. Non voglio nemmeno cambiarlo con uno nuovo..."
 
 # game/scripts/story_01/breakfasts.rpy:13 #-#-# translate crowdin ev_002_6f6bf948:
 msgid "[_Max_s_11_] Меня моя тоже устраивает."
-msgstr ""
+msgstr "[_Max_s_11_] Anche io sto bene con il mio."
 
 # game/scripts/story_01/breakfasts.rpy:14 #-#-# translate crowdin ev_002_6b91afc6:
 msgid "[_Ann_s_03_] Если что, мебель всегда можно будет купить..."
