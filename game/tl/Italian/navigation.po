@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.BigBrotherAS] main/game/tl/crowdin/scripts/screens/navigation.po\n"
+"X-Crowdin-File-ID: 4519\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-07 10:23\n"
+
+# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:136
+msgid "Ждать окончания часа"
+msgstr "Aspettando la fine dell'ora"
+
+# game/scripts/screens/navigation.rpy:144
+msgid "Мыть посуду"
+msgstr "Lavare i piatti"
+
+# game/scripts/screens/navigation.rpy:152
+msgid "Поговорить"
+msgstr "Parlare"
+
+# game/scripts/screens/navigation.rpy:160
+msgid "Принять ванну"
+msgstr "Fare il bagno"
+
+# game/scripts/screens/navigation.rpy:168
+msgid "Принять душ"
+msgstr "Fare la doccia"
+
+# game/scripts/screens/navigation.rpy:176
+msgid "Вздремнуть"
+msgstr "Fare un sonnellino"
+
+# game/scripts/screens/navigation.rpy:184
+msgid "Установить будильник"
+msgstr "Impostare la sveglia"
+
+# game/scripts/screens/navigation.rpy:192
+msgid "Спать до утра"
+msgstr "Dormire fino al mattino"
+
+# game/scripts/screens/navigation.rpy:200
+msgid "Сесть за ноутбук"
+msgstr "Sedersi al computer"
+
+# game/scripts/screens/navigation.rpy:208
+msgid "Разобрать коробки"
+msgstr "Smontare le scatole"
+
+# game/scripts/screens/navigation.rpy:237
+msgid "Развернуть"
+msgstr "Ampliare"
+
+# game/scripts/screens/navigation.rpy:245
+msgid "Ждать 30 минут"
+msgstr "Aspettare 30 minuti"
+
+# game/scripts/screens/navigation.rpy:252
+msgid "Ждать 10 минут"
+msgstr "Aspettare 10 minuti"
+
+# game/scripts/screens/navigation.rpy:257
+msgid "Свернуть"
+msgstr "Entrare"
+
+# game/scripts/screens/navigation.rpy:287
+msgid "Галерея"
+msgstr "Galleria"
+
+# game/scripts/screens/navigation.rpy:293
+msgid "Поддержать игру на Boosty"
+msgstr "Supporta il gioco su Boosty"
+
+# game/scripts/screens/navigation.rpy:299
+msgid "Поддержать игру на Patreon"
+msgstr "Supporta il gioco su Patreon"
+
+# game/scripts/screens/navigation.rpy:305
+msgid "Меню игры"
+msgstr "Menu di gioco"
+
+# game/scripts/screens/navigation.rpy:311
+msgid "Личный дневник"
+msgstr "Diario personale"
+
+# game/scripts/screens/navigation.rpy:318
+msgid "Обучение"
+msgstr "Formazione"
+
+# game/scripts/screens/navigation.rpy:324
+msgid "Предметы"
+msgstr "Oggetti"
+
+# game/scripts/screens/navigation.rpy:330
+msgid "Одежда"
+msgstr "Abbigliamento"
+
+# game/scripts/screens/navigation.rpy:336
+msgid "Персонажи"
+msgstr "Personaggi"
+

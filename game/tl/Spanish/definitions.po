@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.BigBrotherAS] main/game/tl/crowdin/scripts/engine/definitions.po\n"
+"X-Crowdin-File-ID: 4511\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2022-12-06 20:53\n"
+
+# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/definitions.rpy:10
+msgid "Анна"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Комната Макса и Лизы"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Комната Алисы"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Комната Анны"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Ванная комната"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Гостиная"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Веранда"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:19
+msgid "Двор"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:54
+msgid "Я остался незамеченным!"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:60
+msgid "Я чуть не попался!"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:60
+msgid "Вот чёрт, я попался!"
+msgstr ""
+

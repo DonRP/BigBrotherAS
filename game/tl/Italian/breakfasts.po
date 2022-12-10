@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/breakfasts.po\n"
+"X-Crowdin-File-ID: 4525\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-07 12:40\n"
+
+# TODO: Translation updated at 2022-12-05 21:30 #|#|# # game/scripts/story_01/breakfasts.rpy:9 #-#-# translate crowdin ev_002_7ee8f2aa:
+msgid "[_Ann_s_02_] Ну, дети, как вам живётся на новом месте? Как спалось в первую ночь?"
+msgstr "[_Ann_s_02_] Allora, ragazzi, come vi trovate nella vostra nuova casa? Come avete dormito la prima notte?"
+
+# game/scripts/story_01/breakfasts.rpy:10 #-#-# translate crowdin ev_002_bf449ace:
+msgid "[_Alice_s_03_] Просто нет слов! После той нашей съёмной квартиры это какой-то рай! А кровать какая удобная..."
+msgstr "[_Alice_s_03_] Non ci sono parole! Dopo il nostro appartamento in affitto, è come un paradiso! E che letto comodo..."
+
+# game/scripts/story_01/breakfasts.rpy:11 #-#-# translate crowdin ev_002_48d5bc6d:
+msgid "[_Max_s_13_] А вот у меня кровать точно такая же..."
+msgstr "[_Max_s_13_] Il mio letto è esattamente lo stesso..."
+
+# game/scripts/story_01/breakfasts.rpy:12 #-#-# translate crowdin ev_002_3d8260e0:
+msgid "[_Lisa_s_03_] Это потому, что у нас с тобой наши старые кровати. Ты забыл? Кстати, мне нравится моя. Даже не хочу менять её на новую..."
+msgstr "[_Lisa_s_03_] Questo perché io e te abbiamo i nostri vecchi letti. L'hai dimenticato? A proposito, a me piace il mio. Non voglio nemmeno cambiarlo con uno nuovo..."
+
+# game/scripts/story_01/breakfasts.rpy:13 #-#-# translate crowdin ev_002_6f6bf948:
+msgid "[_Max_s_11_] Меня моя тоже устраивает."
+msgstr "[_Max_s_11_] Anche io sto bene con il mio."
+
+# game/scripts/story_01/breakfasts.rpy:14 #-#-# translate crowdin ev_002_6b91afc6:
+msgid "[_Ann_s_03_] Если что, мебель всегда можно будет купить..."
+msgstr "[_Ann_s_03_] Se non altro, i mobili possono sempre essere acquistati..."
+
+# game/scripts/story_01/breakfasts.rpy:15 #-#-# translate crowdin ev_002_12d89522:
+msgid "[_Max_s_01_] Ага. Кстати, я планирую уже начать зарабатывать!"
+msgstr "[_Max_s_01_] A proposito, ho intenzione d'iniziare a guadagnare!"
+
+# game/scripts/story_01/breakfasts.rpy:16 #-#-# translate crowdin ev_002_2682bf81:
+msgid "[_Alice_s_04_] Ага, и как же ты заработаешь? Образования нет, ничего толком не умеешь. Только дома сидишь всё время в своём ноутбуке..."
+msgstr "[_Alice_s_04_] Sì, e come farai a guadagnare? Non hai un'istruzione, non sai fare nulla. Stai seduto a casa tutto il tempo sul tuo computer..."
+
+# game/scripts/story_01/breakfasts.rpy:17 #-#-# translate crowdin ev_002_0eaf316b:
+msgid "[_Max_s_12_] А вот и заработаю. Научусь что-то делать и сразу заработаю!"
+msgstr "[_Max_s_12_] Guadagnerò un po' di soldi. Se imparo a fare qualcosa, faccio subito soldi!"
+
+# game/scripts/story_01/breakfasts.rpy:18 #-#-# translate crowdin ev_002_e480afd8:
+msgid "[_Alice_s_02_] Ага, просиживать штаны ты научишься. Объявлений с предложением работы полно. Выбирай - не хочу."
+msgstr "[_Alice_s_02_] Sì, imparerai a sederti sui tuoi pantaloni. Le offerte di lavoro sono numerose. C'è solo l'imbarazzo della scelta."
+
+# game/scripts/story_01/breakfasts.rpy:19 #-#-# translate crowdin ev_002_742acb8f:
+msgid "[_Max_s_17_] Да ты сама дома целыми днями сидишь!"
+msgstr "[_Max_s_17_] Sei tu quella che sta a casa tutto il giorno!"
+
+# game/scripts/story_01/breakfasts.rpy:20 #-#-# translate crowdin ev_002_ac4d0f3e:
+msgid "[_Ann_s_01_] Так, хватит. Давайте сменим тему. Например, сегодня у нас Лиза первый раз идёт в новую школу."
+msgstr "[_Ann_s_01_] Va bene, basta così. Cambiamo argomento. Per esempio, oggi è la prima volta che Lisa va in una nuova scuola."
+
+# game/scripts/story_01/breakfasts.rpy:21 #-#-# translate crowdin ev_002_6034047d:
+msgid "[_Max_s_02_] Поздравляю, Лиза!"
+msgstr "[_Max_s_02_] Complimenti, Lisa!"
+
+# game/scripts/story_01/breakfasts.rpy:22 #-#-# translate crowdin ev_002_219d79c3:
+msgid "[_Lisa_s_01_] Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив..."
+msgstr "[_Lisa_s_01_] Grazie, Max. Onestamente, non so nemmeno cosa aspettarmi. Nuovo posto, nuova scuola, nuove persone..."
+
+# game/scripts/story_01/breakfasts.rpy:23 #-#-# translate crowdin ev_002_7172ad78:
+msgid "[_Max_s_04_] Ну, ты справишься!"
+msgstr "[_Max_s_04_] Beh, puoi farcela!"
+
+# game/scripts/story_01/breakfasts.rpy:24 #-#-# translate crowdin ev_002_d3318030:
+msgid "[_Lisa_s_00_] Ага, деваться-то некуда. Кстати, после завтрака я буду уже собираться, к 11 часам нужно быть в школе. А часам к 4 уже вернусь."
+msgstr "[_Lisa_s_00_] Sì, non c'è nessun posto dove andare. A proposito, mi preparerò dopo la colazione; devo essere a scuola per le 11. Tornerò per le 16."
+
+# game/scripts/story_01/breakfasts.rpy:25 #-#-# translate crowdin ev_002_26609dc0:
+msgid "[_Max_s_11_] Всего 5 часов?"
+msgstr "[_Max_s_11_] Solo 5 ore?"
+
+# game/scripts/story_01/breakfasts.rpy:26 #-#-# translate crowdin ev_002_b14d90c6:
+msgid "[_Lisa_s_02_] Ну, у нас в этой школе так. Меня всё устраивает. Мы ещё и учимся всего пять дней в неделю! Так что, соскучиться не успеете!"
+msgstr "[_Lisa_s_02_] Beh, è così che funziona in questa scuola. Per me va bene. Studiamo solo cinque giorni alla settimana! Quindi, sarà un'occasione da non perdere!"
+
+# game/scripts/story_01/breakfasts.rpy:27 #-#-# translate crowdin ev_002_5a92edcf:
+msgid "[_Max_s_03_] Ну, удачи тебе в школе! Мы в тебя верим..."
+msgstr "[_Max_s_03_] Beh, buona fortuna a scuola! Abbiamo fiducia in te..."
+
+# game/scripts/story_01/breakfasts.rpy:28 #-#-# translate crowdin ev_002_fc05a9ed:
+msgid "[_Lisa_s_11_] Спасибо. Постараюсь не подвести!"
+msgstr "[_Lisa_s_11_] Grazie. Cercherò di non deludervi!"
+
+# game/scripts/story_01/breakfasts.rpy:29 #-#-# translate crowdin ev_002_851d11fb:
+msgid "[_Ann_s_04_] Так, всем спасибо за завтрак. А мне уже пора убегать на работу. Алиса, как всегда, моет посуду после завтрака, а Лиза после ужина. Макс, если захочешь помочь сёстрам, они будут только рады."
+msgstr "[_Ann_s_04_] Ok, grazie a tutti per la colazione. Ora devo andare a lavorare. Alice lava i piatti dopo la colazione, come al solito, e Lisa dopo cena. Max, se vuoi aiutare le tue sorelle, ne saranno felici."
+
+# game/scripts/story_01/breakfasts.rpy:30 #-#-# translate crowdin ev_002_a50b3689:
+msgid "[_Max_s_12_] Не сомневаюсь..."
+msgstr "[_Max_s_12_] Non ne dubito..."
+
+# game/scripts/story_01/breakfasts.rpy:31 #-#-# translate crowdin ev_002_c2b369a9:
+msgid "[_Ann_s_00_] Да, Макс... Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате."
+msgstr "[_Ann_s_00_] Sì, Max... Ho trovato alcune scatole mentre facevo le pulizie. Deve essere un residuo della ristrutturazione. Guarda se c'è qualcosa di valore, altrimenti le buttiamo via dopo. Ora sono nella tua stanza."
+
+# game/scripts/story_01/breakfasts.rpy:32 #-#-# translate crowdin ev_002_0fc9dfdf:
+msgid "[_Max_s_13_] А что за коробки?"
+msgstr "[_Max_s_13_] Quali sono le scatole?"
+
+# game/scripts/story_01/breakfasts.rpy:33 #-#-# translate crowdin ev_002_4d7ca367:
+msgid "[_Ann_s_12_] Если бы я знала, то не стала бы у тебя спрашивать. Я в электронике не разбираюсь. Посмотри сам."
+msgstr "[_Ann_s_12_] Se lo sapessi, non te lo chiederei. Non so nulla di elettronica. Guarda tu stesso."
+
+# game/scripts/story_01/breakfasts.rpy:34 #-#-# translate crowdin ev_002_f528f148:
+msgid "[_Max_s_11_] Понял. Посмотрю..."
+msgstr "[_Max_s_11_] Capito. Guarderò..."
+
